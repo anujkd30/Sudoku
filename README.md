@@ -1,6 +1,6 @@
 # Sudoku
 
-Sudoku is one of the most famous puzzle game ever. With this Android app, you can play three different Sudoku levels:
+With this Android app, you can play three different Sudoku levels:
 
 * Easy
 * Medium
